@@ -1,0 +1,25 @@
+{
+  "name": "watermarkify",
+  "version": "0.0.2",
+  "author": "Neela Kanta Reddy",
+  "homepage": "https://neelakantareddy.com",
+  "description": "A library for adding watermarks to images in Angular applications.",
+  "main": "dist/watermarkify.umd.js",
+  "typings": "dist/watermarkify.d.ts",
+  "peerDependencies": {
+    "@angular/common": "^16.1.0",
+    "@angular/core": "^16.1.0"
+  },
+  "keywords": [
+    "canvas",
+    "watermarker",
+    "image",
+    "file"
+  ],
+
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  
+  "sideEffects": false
+}
